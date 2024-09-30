@@ -1,0 +1,8 @@
+.banana {
+    color: deeppink;
+    background-color: rgb(188, 252, 38);
+  }
+
+  .banana > h1 {
+    background-color: inherit;
+  }
